@@ -43,5 +43,6 @@ public class Ex03 {
 			total += pop;
 		}
 		System.out.println("전체 빌라 인원은 " + total + " 명 입니다.");
+		
 	}
 }
